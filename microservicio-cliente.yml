@@ -1,6 +1,8 @@
-mensaje: "Hola desde el Config Server 😄"
-server:
-  port: 0
 spring:
   application:
     name: microservicio-cliente
+
+mensaje: "Hola desde el Config Server 😄"
+
+server:
+  port: 0
