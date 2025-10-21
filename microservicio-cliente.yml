@@ -5,4 +5,4 @@ spring:
 mensaje: "Hola desde el Config Server 😄"
 
 server:
-  port: 0
+  port: 8080
